@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "jshint": "^2.13.3",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
